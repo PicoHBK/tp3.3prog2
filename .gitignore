@@ -1,0 +1,45 @@
+# Archivos y directorios específicos de Flask
+__pycache__/
+instance/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos específicos de Python
+*.pyc
+*.pyo
+__pycache__/
+*.db
+*.sqlite
+
+# Virtual environment
+venv/
+env/
+
+# Entorno de desarrollo local
+.env
+
+# Logs y archivos temporales
+logs/
+*.log
+*.tmp
+*.swp
+
+# Dependencias instaladas por pip
+lib/
+lib64/
+bin/
+include/
+share/
+
+# Carpeta de construcción de Python
+build/
+
+# Carpeta de distribución de Python
+dist/
+
+# Carpeta __pycache__ generada por Python
+__pycache__/
+
+# Directorio .idea de PyCharm (IDE)
+.idea/
